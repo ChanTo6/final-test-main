@@ -1,0 +1,146 @@
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.csproj.AssemblyReference.cache
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.AssemblyInfoInputs.cache
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.AssemblyInfo.cs
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\appsettings.json
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Exam.staticwebassets.runtime.json
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Exam.exe
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Exam.deps.json
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Exam.runtimeconfig.json
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Exam.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Exam.pdb
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Mailjet.Client.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Scrutor.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.DirectoryServices.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\staticwebassets\msbuild.build.Exam.props
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Exam.props
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Exam.props
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\scopedcss\bundle\Exam.styles.css
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.csproj.CopyComplete
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\refint\Exam.dll
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.pdb
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\Exam.genruntimeconfig.cache
+C:\Users\nika.chanturia\Desktop\Visual Studio\Exam\obj\Debug\net7.0\ref\Exam.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.csproj.AssemblyReference.cache
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.AssemblyInfoInputs.cache
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.AssemblyInfo.cs
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\refint\Exam.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.pdb
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\appsettings.json
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Exam.staticwebassets.runtime.json
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Exam.exe
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Exam.deps.json
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Exam.runtimeconfig.json
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Exam.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Exam.pdb
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Mailjet.Client.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Scrutor.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.DirectoryServices.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\staticwebassets\msbuild.build.Exam.props
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Exam.props
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Exam.props
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\scopedcss\bundle\Exam.styles.css
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.csproj.Up2Date
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\Exam.genruntimeconfig.cache
+C:\Users\nika\Downloads\final-test-main\final-test-main\obj\Debug\net7.0\ref\Exam.dll
